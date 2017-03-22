@@ -16,3 +16,10 @@ Syntax
 if (condition) {
     code to be executed if condition is true;
 }
+
+# Php grater than or less than
+
+> - Grater than
+< - Less than
+>= - Grater than equal
+<= - Less than equal
