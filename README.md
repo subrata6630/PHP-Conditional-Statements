@@ -16,13 +16,4 @@ if(conditon){
 }
 
 
-# PHP grater than or less than
-
-PHP grate System <br>
-
-
-- Grater than <br>
-< - Less than <br>
->= - Grater than equal <br>
-<= - Less than equal <br>
 
