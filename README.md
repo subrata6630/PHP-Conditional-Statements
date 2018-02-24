@@ -20,8 +20,9 @@ if(conditon){
 
 PHP grate System <br>
 
-   1.	- Grater than
-   2.	< - Less than
-   3.	>= - Grater than equal
-   4.	<= - Less than equal
+
+- Grater than <br>
+< - Less than <br>
+>= - Grater than equal <br>
+<= - Less than equal <br>
 
