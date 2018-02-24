@@ -18,4 +18,10 @@ if(conditon){
 
 # PHP grater than or less than
 
-PHP grate System (  > - Grater than, < - Less than, >= - Grater than equal, <= - Less than equal   )
+PHP grate System <br>
+
+   1.	- Grater than
+   2.	< - Less than
+   3.	>= - Grater than equal
+   4.	<= - Less than equal
+
